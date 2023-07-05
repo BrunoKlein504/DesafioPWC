@@ -1,6 +1,6 @@
 package application;
 
-public class Challange1 {
+public class Challenge1 {
 
 	public static void main(String[] args) {
 		String phrase = "Hello, World! OpenAI is amazing.";
